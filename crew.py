@@ -1,3 +1,4 @@
+#commint
 from crewai import Agent, Task, Crew, Process
 from langchain.llms import Ollama
 from tools.yf_tech_analysis_tool import yf_tech_analysis

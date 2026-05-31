@@ -1,4 +1,5 @@
-# Main Code Base FOR ONEGO
+# Main Code Base for code run
+
 import streamlit as st
 import yfinance as yf
 import plotly.graph_objs as go

@@ -22,7 +22,7 @@ def main():
         analysis = json.loads(result)
         
         # Display analysis result
-        st.header("AI Analysis Report")
+        st.header(("AI Analysis Report"))
         
         col1, col2 = st.columns(2)
         

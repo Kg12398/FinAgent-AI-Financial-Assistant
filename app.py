@@ -10,7 +10,7 @@ def main():
     st.set_page_config(layout="wide")
     st.title("AI-Powered Advanced Stock Analysis")
 
-    # User input
+    # User input data
     stock_symbol = st.text_input("Enter stock symbol (e.g., AAPL):", "AAPL")
     
     if st.button("Analyze Stock"):

@@ -4,7 +4,7 @@ An advanced stock analysis tool powered by AI agents that provides comprehensive
 
 ## Features
 
-- Real-time stock data analysis
+- Real-time stock data analysis and insights
 - Technical analysis with chart pattern recognition
 - Fundamental analysis of company financials
 - Market sentiment analysis

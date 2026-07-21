@@ -6,7 +6,7 @@ from tools.yf_fundamental_analysis_tool import yf_fundamental_analysis
 from tools.sentiment_analysis_tool import sentiment_analysis
 from tools.competitor_analysis_tool import competitor_analysis
 from tools.risk_assessment_tool import risk_assessment
-
+   
 def create_crew(stock_symbol):
     # Initialize Ollama LLM
     llm = Ollama(model="tinyllama")  # Make sure you have the llama2 model installed in Ollama
